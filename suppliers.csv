@@ -1,0 +1,101 @@
+supplier_id,supplier_name,contact_number,email,address,products_supplied
+S001,"Gould, James and Middleton",001-529-004-2016,carriepierce@miller-garcia.com,"732 Garcia Plains
+New Laurenland, LA 45229",Computers
+S002,Mercado-Sanders,001-229-714-3425,alexandra67@beck.org,"1928 Adams Shoal
+Rachelville, OK 57734",Mobile Devices
+S003,Berg-Ortiz,823.903.6049,jennifer28@morrison.com,"9726 Joseph Hill
+East Martinside, MA 36318",Home Entertainment
+S004,"Hammond, Hill and Prince",755.778.1491x401,uwagner@strickland-lane.info,"793 Jones Harbors
+Port Jennifer, MI 33198",Home Entertainment
+S005,Bartlett Group,+1-009-175-7857,seanmatthews@russell.org,"2589 Troy Junction Apt. 136
+Barryfort, UT 01885",Mobile Devices
+S006,Hudson Group,795-066-0279x9348,gonzalezjamie@cervantes.net,"95337 Wells Trace
+Allenport, MS 11290",Computers
+S007,"Walker, Foster and Crawford",001-437-559-7628,lpalmer@wheeler.biz,"5100 Terri Vista
+Robertsborough, NV 14585",Computers
+S008,"Johnson, Freeman and Bell",+1-186-719-3496,jacob86@davis.net,"53945 Erica Camp
+Whitneyport, UT 21850",Home Entertainment
+S009,Gallagher-Johnson,169.379.8394,nreeves@alvarez.com,"99422 Lindsey Cape Suite 491
+Edwardshaven, AK 38347",Computers
+S010,"Carter, Cuevas and Gentry",4665403463,ryanjenkins@white.org,"549 Castillo Common
+Laurenshire, KY 64657",Mobile Devices
+S011,Vargas-Weaver,001-150-275-0881x046,owensjeremy@collins.com,"70572 Curtis Fall
+Taylorton, MT 32949",Home Entertainment
+S012,Davis-Bauer,687.210.9965x384,malloryross@mejia.com,"10292 Hall Trail Apt. 430
+South Danielside, IL 27435",Mobile Devices
+S013,Hunter Group,(859)782-0743x537,kennethpittman@dixon.net,"1595 Laura Islands
+West Joshua, VT 61470",Home Entertainment
+S014,Powell Ltd,970-597-5494x79588,kdavis@medina.com,"PSC 9845, Box 5830
+APO AA 90723",Mobile Devices
+S015,Mills-Lewis,001-118-294-9741x1235,cardenasmatthew@singh.com,"49704 Darren Park
+North Christinaborough, MT 64459",Home Entertainment
+S016,"Ward, Johnson and Newman",(384)638-1470,michelle42@huffman.com,"2888 Anthony Groves
+South Joystad, TX 17097",Mobile Devices
+S017,"Sharp, Griffin and Dixon",522.873.3602x24108,nicolebruce@little-santiago.biz,"USNS Johnson
+FPO AE 09709",Computers
+S018,"Cruz, Johnson and Young",600-023-3048x760,thernandez@hodge-cook.com,"2589 Dana Port Apt. 778
+North Adam, OH 82853",Home Entertainment
+S019,Mitchell-Gray,+1-819-593-2931x1750,christinefranco@moore.com,"0202 Cortez Ways
+North Timothy, NH 74896",Computers
+S020,Gutierrez-Wilson,(262)337-8487x078,aprilsmith@santos.com,"554 Thomas Courts
+South Brandonville, IL 17361",Home Entertainment
+S021,Gibson-Harrison,(846)394-9164x0010,lburke@phillips.com,"154 Ashlee Squares
+Margaretton, MI 50330",Computers
+S022,"Casey, Smith and Trujillo",204-209-3827,howellmichael@morrison-hayden.com,"2288 Rodney Flat Apt. 189
+South William, KY 12461",Computers
+S023,Sullivan-Herrera,001-054-738-5695x713,jonathan72@mason.info,"47329 Cameron Center
+New Ryan, AK 90838",Home Entertainment
+S024,"Patterson, Edwards and Sullivan",001-170-341-6586,jonesmichael@turner.com,"130 Michael Village
+Port Hannahton, OH 90705",Computers
+S025,Walter-Smith,951-988-9013x7069,matthew02@knight.com,"PSC 3425, Box 4370
+APO AE 74871",Mobile Devices
+S026,Kramer-Bauer,345.051.0528,barnesjason@fowler-david.com,"6654 Dale Track Suite 772
+North Bryan, NE 92356",Computers
+S027,Ortega PLC,540.383.9718,pdeleon@haney-mcintosh.com,"8994 Melissa Crest Apt. 290
+North Catherine, SD 85357",Computers
+S028,"Howell, Ryan and Patrick",485.499.3075x672,robertschroeder@pena-murphy.com,"760 Jerry Port Apt. 769
+Wrightshire, NC 03597",Computers
+S029,"Clark, Carter and Delgado",813.585.5965x8818,nichole42@peters.biz,"2513 Jared Terrace Suite 221
+South Brianland, CO 53625",Computers
+S030,Sanchez-Davis,+1-425-372-4125,myerswilliam@jones.com,"58846 Baker Square
+North Ricky, MD 74714",Computers
+S031,"Swanson, Perez and Watson",480-071-0580,wendy95@carpenter.com,"12528 Kristie Circles Suite 880
+Schneiderberg, OH 99873",Computers
+S032,Christian Group,(884)073-1803x55282,stephenfranco@herrera.info,"54076 Anthony Rapids Apt. 348
+Kimberlymouth, DE 28140",Home Entertainment
+S033,"Diaz, Collins and Craig",001-607-197-9502x4283,christopher49@zavala.org,"5274 Leslie Mountains
+New Theresa, VT 25826",Computers
+S034,Fitzpatrick PLC,962.359.7025,whitneymichelle@fernandez.com,"43164 Vang Points
+Kathymouth, CT 02918",Home Entertainment
+S035,Roberts-Rodriguez,(119)657-8951x50754,kathryn85@tran.com,"3033 Brady Throughway Suite 892
+Johnton, TX 82204",Computers
+S036,Morrison-Henderson,+1-824-161-8192x1323,thomas67@stone.com,"050 Contreras Plains
+Barajashaven, WV 92673",Computers
+S037,Cunningham-Palmer,001-644-070-3770,deborahmartin@jenkins.com,"608 Anthony Bridge
+North Michelle, SD 82665",Mobile Devices
+S038,"Barton, Pham and Bishop",285-964-2980,elizabethpage@crawford.com,"9074 Fox Park Suite 688
+West Sara, MI 78470",Computers
+S039,Whitehead Inc,001-554-242-8523x70724,desireenelson@williams.info,"01905 Michael Street Suite 677
+Johnsonhaven, DE 82756",Mobile Devices
+S040,"Vazquez, Quinn and Pacheco",001-609-861-2611x36424,heatherolsen@harris-jackson.biz,"5600 Lamb Harbors Suite 539
+New Ashley, OH 66154",Computers
+S041,"Garcia, Jones and Cole",001-726-346-8301x753,lauren97@gallegos-thomas.com,"876 Eric River
+Mannbury, AK 66786",Computers
+S042,Harris-Mcdonald,(601)583-8357x3713,pittschristina@watson-jennings.biz,"571 Amanda Road
+Henryport, TX 86611",Mobile Devices
+S043,Barton-Anderson,(567)382-8166x495,raymond37@garcia.net,"97551 Quinn Crossroad Apt. 494
+Jacksonborough, MT 43531",Mobile Devices
+S044,Conrad and Sons,883.455.3159x214,troy57@jones-robinson.org,"008 Jacqueline Lights
+Hammondbury, NC 12740",Mobile Devices
+S045,Carlson Group,106.859.6282,vflowers@proctor-ortega.com,"75884 Nunez Manors Apt. 157
+South Kathryn, NM 98468",Home Entertainment
+S046,"Patel, Anderson and Cervantes",038-706-1833x673,rellis@sanchez-collins.com,"Unit 1310 Box 8121
+DPO AP 05539",Mobile Devices
+S047,Myers-Smith,(522)526-8555,martinandres@arnold-santos.net,"21384 Lane Ridges
+Jacobtown, MA 91804",Computers
+S048,Baxter-Noble,(276)275-2900x7431,asmall@davis.com,"PSC 3751, Box 7750
+APO AP 25954",Home Entertainment
+S049,Mueller-Nelson,9773392934,brownjose@taylor.com,"217 Gabrielle Bridge Apt. 316
+East Nathanport, IA 05391",Computers
+S050,"Barajas, Henry and Gibbs",001-806-088-7631x595,taylor87@hayes-taylor.com,"49695 Jeffrey Viaduct
+West Cindy, NV 47552",Mobile Devices

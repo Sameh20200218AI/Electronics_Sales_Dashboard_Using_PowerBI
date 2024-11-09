@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,price,stock,release_date
+P0001,Phone,Mobile Devices,Samsung,1709.24,59,2023-04-11
+P0002,Laptop,Computers,LG,910.77,9,2023-07-30
+P0003,Television,Mobile Devices,Apple,1156.43,42,2020-05-05
+P0004,PC,Computers,LG,349.96,23,2022-03-15
+P0005,Phone,Home Entertainment,Samsung,1930.81,70,2024-05-07
+P0006,Television,Mobile Devices,Lenovo,629.62,5,2024-02-18
+P0007,Television,Home Entertainment,Sony,946.91,50,2023-06-12
+P0008,Phone,Home Entertainment,HP,819.06,45,2022-07-31
+P0009,PC,Mobile Devices,LG,755.45,32,2024-01-20
+P0010,Television,Home Entertainment,Dell,602.78,88,2023-01-17
+P0011,PC,Mobile Devices,Dell,1466.25,76,2021-11-09
+P0012,Phone,Mobile Devices,Lenovo,177.57,87,2024-04-17
+P0013,Television,Home Entertainment,Lenovo,1367.67,56,2021-03-08
+P0014,PC,Home Entertainment,Sony,800.18,42,2022-05-25
+P0015,Laptop,Computers,Sony,396.03,32,2021-03-10
+P0016,Television,Computers,Asus,1879.71,98,2020-10-21
+P0017,Phone,Mobile Devices,Asus,1327.48,37,2022-02-17
+P0018,Tablet,Home Entertainment,Sony,1902.07,65,2024-07-12
+P0019,Phone,Mobile Devices,Apple,472.03,19,2021-04-01
+P0020,PC,Home Entertainment,Samsung,1338.4,37,2022-08-21
+P0021,Phone,Computers,Sony,936.86,45,2020-11-02
+P0022,PC,Mobile Devices,HP,1229.06,48,2020-08-17
+P0023,PC,Computers,Asus,481.06,17,2022-10-22
+P0024,Tablet,Mobile Devices,LG,1328.56,29,2024-01-06
+P0025,Tablet,Mobile Devices,Asus,1885.69,66,2024-10-05
+P0026,Laptop,Home Entertainment,LG,1871.72,28,2020-11-08
+P0027,Phone,Home Entertainment,Asus,1171.74,50,2023-01-04
+P0028,Laptop,Home Entertainment,Samsung,161.49,86,2023-09-10
+P0029,PC,Computers,Samsung,1839.29,10,2022-09-09
+P0030,PC,Home Entertainment,LG,1133.79,73,2021-09-27
+P0031,Phone,Home Entertainment,HP,1647.93,68,2024-09-12
+P0032,Television,Mobile Devices,Lenovo,215.64,66,2024-01-22
+P0033,Laptop,Home Entertainment,HP,1755.56,25,2023-10-07
+P0034,PC,Mobile Devices,Lenovo,245.74,51,2024-06-07
+P0035,Laptop,Home Entertainment,Sony,1970.9,78,2022-03-20
+P0036,Tablet,Mobile Devices,LG,720.13,75,2020-07-12
+P0037,Phone,Mobile Devices,Sony,1492.34,19,2024-08-31
+P0038,Tablet,Home Entertainment,Samsung,494.54,27,2020-02-13
+P0039,Television,Computers,Sony,446.12,88,2020-10-16
+P0040,PC,Mobile Devices,HP,466.44,75,2023-05-24
+P0041,Phone,Home Entertainment,Asus,642.57,57,2020-01-04
+P0042,Tablet,Computers,Lenovo,160.13,21,2024-03-13
+P0043,Laptop,Home Entertainment,Samsung,1957.9,5,2022-11-01
+P0044,Tablet,Computers,Apple,805.6,70,2022-01-27
+P0045,Television,Computers,Lenovo,1382.7,18,2022-10-07
+P0046,Tablet,Mobile Devices,Dell,458.89,21,2020-07-14
+P0047,Phone,Computers,Asus,796.26,34,2021-08-16
+P0048,Laptop,Home Entertainment,Asus,1323.22,46,2024-10-29
+P0049,Tablet,Computers,Dell,737.54,57,2021-11-19
+P0050,PC,Computers,Apple,1577.08,45,2022-01-11
+P0051,PC,Home Entertainment,Asus,1960.98,76,2021-03-18
+P0052,Tablet,Computers,Apple,1464.0,52,2024-08-14
+P0053,PC,Home Entertainment,Asus,509.99,99,2023-10-23
+P0054,Laptop,Mobile Devices,HP,1747.46,99,2020-10-10
+P0055,Television,Mobile Devices,Sony,119.02,90,2020-09-06
+P0056,Tablet,Computers,LG,1210.2,48,2022-09-21
+P0057,Laptop,Computers,Dell,1174.94,86,2024-04-27
+P0058,Phone,Computers,Dell,1351.94,8,2024-02-29
+P0059,Tablet,Mobile Devices,HP,249.14,81,2020-12-04
+P0060,Television,Home Entertainment,Asus,1086.05,78,2022-07-25
+P0061,Laptop,Mobile Devices,Lenovo,720.6,92,2024-09-08
+P0062,PC,Home Entertainment,Apple,140.0,51,2022-06-23
+P0063,Tablet,Home Entertainment,Apple,296.58,25,2021-01-22
+P0064,Television,Home Entertainment,Lenovo,346.55,98,2024-08-27
+P0065,Tablet,Home Entertainment,Apple,612.82,28,2022-10-30
+P0066,Television,Home Entertainment,LG,1781.52,13,2024-08-05
+P0067,Phone,Mobile Devices,Asus,1132.46,82,2021-09-23
+P0068,Tablet,Home Entertainment,Asus,973.02,24,2024-08-27
+P0069,Phone,Mobile Devices,Apple,933.32,52,2022-06-12
+P0070,Tablet,Computers,Samsung,1979.39,94,2023-10-14
+P0071,Phone,Mobile Devices,Lenovo,1505.67,18,2020-10-11
+P0072,Phone,Computers,LG,701.54,57,2023-04-10
+P0073,Television,Home Entertainment,Lenovo,181.19,17,2022-09-12
+P0074,Television,Mobile Devices,Asus,1365.73,22,2022-01-22
+P0075,Laptop,Home Entertainment,Lenovo,1532.76,7,2022-06-21
+P0076,Laptop,Home Entertainment,Dell,1200.83,52,2021-07-25
+P0077,Laptop,Home Entertainment,HP,1261.32,15,2021-08-11
+P0078,Laptop,Computers,Asus,1455.99,60,2021-08-03
+P0079,Phone,Mobile Devices,Asus,330.47,77,2020-04-12
+P0080,Television,Computers,Dell,1410.17,67,2022-03-18
+P0081,Television,Computers,HP,1610.44,90,2024-01-20
+P0082,Phone,Mobile Devices,Sony,1601.18,6,2020-08-02
+P0083,Tablet,Mobile Devices,Dell,624.11,1,2020-10-06
+P0084,Laptop,Mobile Devices,HP,1943.21,69,2021-02-08
+P0085,Tablet,Computers,HP,832.41,67,2021-04-09
+P0086,PC,Home Entertainment,Samsung,1288.85,88,2020-04-30
+P0087,Television,Computers,LG,815.82,24,2020-09-06
+P0088,Laptop,Home Entertainment,Asus,220.87,81,2024-08-06
+P0089,Laptop,Mobile Devices,Lenovo,593.25,27,2023-04-30
+P0090,Television,Mobile Devices,Asus,1832.04,65,2024-06-17
+P0091,Tablet,Mobile Devices,Sony,1407.53,87,2022-05-06
+P0092,Tablet,Computers,HP,1972.58,89,2024-06-09
+P0093,Laptop,Mobile Devices,Samsung,1403.17,30,2022-01-01
+P0094,PC,Computers,Apple,1451.49,48,2021-10-30
+P0095,Phone,Computers,Sony,1367.28,39,2023-07-27
+P0096,Television,Home Entertainment,Asus,406.43,28,2022-05-05
+P0097,Phone,Computers,LG,1368.16,34,2023-10-31
+P0098,Laptop,Mobile Devices,Apple,1635.01,37,2024-03-10
+P0099,Laptop,Computers,Dell,309.42,39,2023-01-15
+P0100,Phone,Mobile Devices,LG,1362.71,46,2020-09-12
+P0101,Laptop,Home Entertainment,HP,607.25,5,2022-10-04
+P0102,Phone,Computers,LG,224.2,55,2020-12-24
+P0103,Tablet,Computers,Sony,509.4,63,2024-02-20
+P0104,Laptop,Mobile Devices,LG,1064.06,75,2022-11-07
+P0105,PC,Home Entertainment,Apple,316.06,16,2021-08-14
+P0106,Television,Computers,Asus,623.46,65,2022-01-25
+P0107,Television,Mobile Devices,Apple,999.2,22,2020-02-20
+P0108,PC,Home Entertainment,LG,1678.66,10,2022-04-22
+P0109,PC,Mobile Devices,Sony,1074.04,27,2020-12-29
+P0110,PC,Home Entertainment,Dell,1595.12,43,2021-11-15
+P0111,Phone,Computers,Sony,740.09,96,2023-03-01
+P0112,PC,Home Entertainment,Asus,1421.58,58,2021-06-13
+P0113,Tablet,Home Entertainment,HP,563.86,85,2022-10-30
+P0114,Phone,Home Entertainment,HP,999.4,82,2023-08-16
+P0115,Tablet,Home Entertainment,Lenovo,1480.9,85,2020-07-12
+P0116,Tablet,Computers,Apple,1852.28,73,2020-11-08
+P0117,Phone,Computers,Asus,658.0,68,2021-03-30
+P0118,PC,Home Entertainment,Apple,284.66,79,2021-11-10
+P0119,Tablet,Home Entertainment,Sony,1476.9,46,2020-05-20
+P0120,Phone,Home Entertainment,HP,1429.4,25,2024-07-17
+P0121,PC,Mobile Devices,Lenovo,638.56,63,2020-08-17
+P0122,Tablet,Home Entertainment,Sony,1739.01,22,2020-03-23
+P0123,Tablet,Home Entertainment,Lenovo,770.51,65,2021-01-21
+P0124,Phone,Mobile Devices,LG,694.76,29,2021-08-08
+P0125,Phone,Computers,Asus,1168.9,36,2021-01-06
+P0126,PC,Computers,Sony,1807.5,40,2023-04-30
+P0127,Television,Computers,Dell,1600.73,64,2020-10-11
+P0128,Phone,Computers,Asus,1207.67,84,2023-02-23
+P0129,PC,Mobile Devices,HP,557.71,46,2020-12-26
+P0130,Tablet,Mobile Devices,Dell,829.35,87,2020-04-23
+P0131,Television,Computers,Asus,1468.3,20,2020-03-08
+P0132,PC,Mobile Devices,LG,1079.03,55,2021-08-27
+P0133,PC,Mobile Devices,HP,1725.99,68,2021-07-28
+P0134,Television,Home Entertainment,LG,1665.27,32,2021-01-19
+P0135,Phone,Home Entertainment,Apple,771.39,59,2024-01-28
+P0136,Phone,Home Entertainment,Samsung,1984.71,45,2021-10-16
+P0137,PC,Computers,Asus,363.7,86,2020-07-08
+P0138,Tablet,Computers,Sony,1829.26,69,2020-03-11
+P0139,Laptop,Computers,Sony,1321.41,98,2024-08-17
+P0140,Laptop,Home Entertainment,Apple,1785.64,93,2023-08-15
+P0141,Television,Computers,Samsung,1078.77,8,2020-11-11
+P0142,Tablet,Computers,Asus,406.67,77,2022-03-18
+P0143,Laptop,Mobile Devices,HP,817.06,18,2020-08-05
+P0144,Television,Computers,Samsung,1015.14,99,2021-11-17
+P0145,PC,Home Entertainment,HP,410.59,22,2020-08-11
+P0146,Tablet,Home Entertainment,Samsung,1455.11,100,2022-07-24
+P0147,PC,Mobile Devices,Lenovo,1036.9,66,2022-12-24
+P0148,PC,Computers,Asus,1442.98,99,2023-09-16
+P0149,Television,Computers,LG,1805.76,72,2021-07-14
+P0150,Phone,Computers,Asus,442.21,79,2020-07-08
+P0151,Television,Home Entertainment,Apple,260.35,91,2024-04-13
+P0152,Tablet,Mobile Devices,LG,832.56,52,2023-12-22
+P0153,Tablet,Computers,Lenovo,570.98,90,2020-05-02
+P0154,Television,Computers,Lenovo,1522.71,60,2020-11-09
+P0155,PC,Computers,Apple,1317.89,63,2023-04-30
+P0156,PC,Mobile Devices,Sony,1227.33,63,2021-09-11
+P0157,Television,Computers,Lenovo,1909.52,15,2022-03-19
+P0158,Television,Computers,Dell,123.38,92,2023-01-18
+P0159,Laptop,Computers,Lenovo,314.17,79,2023-12-31
+P0160,Tablet,Mobile Devices,Dell,874.56,100,2021-06-10
+P0161,Tablet,Mobile Devices,Sony,1013.9,16,2021-09-23
+P0162,Laptop,Computers,HP,323.31,32,2020-06-29
+P0163,PC,Home Entertainment,Dell,819.64,82,2021-05-06
+P0164,Television,Computers,HP,463.3,25,2021-05-18
+P0165,PC,Computers,HP,688.88,88,2022-11-29
+P0166,Tablet,Computers,HP,415.81,80,2024-07-03
+P0167,Laptop,Home Entertainment,Samsung,718.58,44,2022-02-17
+P0168,Tablet,Mobile Devices,Apple,1686.73,93,2020-12-30
+P0169,Tablet,Home Entertainment,HP,543.93,26,2023-10-06
+P0170,Television,Mobile Devices,Dell,463.84,87,2021-06-27
+P0171,Tablet,Mobile Devices,Sony,180.4,67,2020-02-11
+P0172,Laptop,Mobile Devices,Asus,635.71,19,2024-01-05
+P0173,Laptop,Computers,Lenovo,977.59,28,2023-06-27
+P0174,Laptop,Home Entertainment,Apple,902.13,74,2024-11-03
+P0175,Television,Mobile Devices,Sony,1097.52,3,2024-04-29
+P0176,PC,Home Entertainment,Asus,604.3,8,2022-08-25
+P0177,Laptop,Computers,HP,699.8,20,2023-01-14
+P0178,PC,Mobile Devices,Samsung,1331.41,54,2023-04-22
+P0179,Phone,Computers,Dell,843.16,35,2022-02-18
+P0180,Tablet,Home Entertainment,Sony,176.11,2,2021-04-21
+P0181,PC,Mobile Devices,Lenovo,573.07,94,2024-10-07
+P0182,Television,Home Entertainment,Lenovo,233.94,16,2020-02-08
+P0183,Tablet,Computers,Samsung,587.63,15,2023-11-23
+P0184,Laptop,Computers,HP,1832.86,98,2020-09-02
+P0185,PC,Computers,Sony,1496.53,88,2022-11-09
+P0186,PC,Computers,LG,1460.16,45,2020-05-21
+P0187,Tablet,Mobile Devices,HP,1924.73,87,2024-08-18
+P0188,Laptop,Computers,Sony,1360.34,27,2022-05-22
+P0189,Laptop,Home Entertainment,HP,425.17,62,2021-02-22
+P0190,PC,Computers,Asus,1018.54,50,2022-01-16
+P0191,Television,Mobile Devices,Asus,488.78,59,2024-02-05
+P0192,PC,Computers,Dell,486.45,32,2022-12-30
+P0193,Tablet,Computers,Samsung,1456.74,57,2022-06-13
+P0194,PC,Mobile Devices,HP,1430.33,2,2023-01-20
+P0195,Phone,Computers,HP,1220.79,24,2021-02-15
+P0196,PC,Computers,Dell,1601.43,73,2022-08-22
+P0197,Phone,Mobile Devices,Asus,299.69,52,2023-04-20
+P0198,Laptop,Home Entertainment,Dell,1410.6,4,2023-07-11
+P0199,Tablet,Computers,Asus,1458.78,92,2020-09-07
+P0200,Television,Mobile Devices,Dell,591.0,56,2020-01-05
